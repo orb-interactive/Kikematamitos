@@ -7,17 +7,15 @@ Width=31
 Height=28
 StartX=240
 StartY=51
-Waypoint1=246,60
-Waypoint2=251,55
-Waypoint3=260,56
-Waypoint4=265,61
-Waypoint5=264,70
-Waypoint6=259,75
-Waypoint7=251,74
-Waypoint8=246,69
-NumberStartingPoints=8
-
-[AircraftTypes]
+Waypoint1=248,58
+Waypoint2=262,58
+Waypoint3=262,72
+Waypoint4=248,72
+Waypoint5=0,0
+Waypoint6=0,0
+Waypoint7=0,0
+Waypoint8=0,0
+NumberStartingPoints=4
 
 [TerrainTypes]
 
@@ -7837,6 +7835,7 @@ Size=0,0,512,274
 7809=tnPTr23Vs3Ddsmfdu3Dbt3LauXDZs27UtG/XrWrbuG/YsnHWsWrasmnXsWzZs3HXtm7PsG
 7810=vQrWnWt3MgB/wRBbdt1LVv1bRvEQAA
 
+
 [AITriggerTypesEnable]
 043F40BC-G=yes
 043F521C-G=yes
@@ -8056,7 +8055,8 @@ PercentBuilt=0
 PlayerControl=no
 
 [Basic]
-Name=[8] Kikematamitos
+Author=Anderson for Kikematamitos
+Name=[4] Kikematamitos
 Percent=0
 GameMode=standard, duel, teamgame
 HomeCell=98
@@ -8064,7 +8064,7 @@ InitTime=10000
 Official=no
 EndOfGame=no
 FreeRadar=no
-MaxPlayer=8
+MaxPlayer=4
 MinPlayer=2
 SkipScore=no
 TrainCrate=no
@@ -8095,8 +8095,6 @@ NodeCount=0
 TechLevel=1
 PercentBuilt=0
 PlayerControl=no
-
-[CellTags]
 
 [Confederation]
 IQ=0
@@ -8958,14 +8956,10 @@ DestroyableBridges=yes
 [Units]
 
 [Waypoints]
-0=70050
-1=60050
-2=51060
-3=51070
-4=61078
-5=71078
-6=79069
-7=79059
+0=66050
+1=51064
+2=65078
+3=79064
 
 [YuriCountry]
 IQ=0
