@@ -1,4 +1,5 @@
 # Yuri's Revenge Map - Kikematamitos
+#### By Anderson of https://republic.community
 Standard map for Yuri's Revenge based on the YouTuber user Kikematamito's favorite playstyle, small maps with minimal farming. Kikematamitos is a Cholo, and regularly reminded to "build the wall".
 
 ## Download
